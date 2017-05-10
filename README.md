@@ -1,6 +1,6 @@
-#kokoa-sidweb
+# kokoa-sidweb
 
-##Dependencies
+## Dependencies
 
 *Ionic Framework*
 
