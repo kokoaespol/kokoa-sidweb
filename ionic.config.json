@@ -1,5 +1,9 @@
 {
   "name": "kokoa-sidweb",
   "app_id": "",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "proxies": [{
+    "path": "/sidwebAPI",
+    "proxyUrl": "https://www.sidweb.espol.edu.ec/api/v1/"
+  }]
 }
